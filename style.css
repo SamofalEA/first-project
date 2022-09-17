@@ -1,6 +1,13 @@
 body {
     background-color: rgb(230, 217, 217);
 }
+
 h1 {
    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.text {
+    font-style: italic;
+    font-size: 30px;
+    color: blue;
 }
